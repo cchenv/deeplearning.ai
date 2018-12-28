@@ -4,7 +4,7 @@ Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 ## Introduction
 
-This repositary contains all the programming projects for this 5-course deep learning specialization. Some multimedia files have not been included with the corresponding Jupyter notebooks. 
+This repository contains all the programming projects for this 5-course deep learning specialization. Some multimedia files have not been included with the corresponding Jupyter notebooks. 
 
 Course 5, Sequence Models, is all about deep learning for Natural Language Processing (NLP). Many popular topics in this domain are covered, such as Character-level Language Modeling, Sentiment Analysis, Neural Machine Translation and Trigger Word Detection. The programming assignments I completed are closely related to those topics. Common deep neural networks, such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory(LSTM), Bi-directional LSTM and GRU have been used along the programming exercise.
 
